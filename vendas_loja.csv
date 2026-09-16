@@ -1,0 +1,16 @@
+id_venda,data,produto,categoria,quantidade,preco_unitario,vendedor,regiao
+1,2026-01-05,Notebook,Eletrônicos,2,3500.00,Ana,Sudeste
+2,2026-01-06,Mouse,Eletrônicos,10,80.00,Bruno,Sul
+3,2026-01-07,Teclado,Eletrônicos,5,150.00,Ana,Sudeste
+4,2026-01-08,Cadeira,Escritório,3,450.00,Carlos,Nordeste
+5,2026-01-09,Mesa,Escritório,2,800.00,Bruno,Sul
+6,2026-01-10,Monitor,Eletrônicos,4,1200.00,Ana,Sudeste
+7,2026-01-11,Caneta,Papelaria,50,2.50,Carlos,Nordeste
+8,2026-01-12,Caderno,Papelaria,30,15.00,Bruno,Sul
+9,2026-01-13,Mochila,Acessórios,5,120.00,Ana,Sudeste
+10,2026-01-14,Fone,Acessórios,8,90.00,Carlos,Nordeste
+11,2026-01-15,Notebook,Eletrônicos,1,3500.00,Bruno,Sul
+12,2026-01-16,Mouse,Eletrônicos,15,80.00,Ana,Sudeste
+13,2026-01-17,Cadeira,Escritório,4,450.00,Carlos,Nordeste
+14,2026-01-18,Monitor,Eletrônicos,3,1200.00,Bruno,Sul
+15,2026-01-19,Caneta,Papelaria,100,2.50,Ana,Sudeste
